@@ -19,7 +19,7 @@ Some users prefer to create issues directly on Discord rather than on GitHub. By
 
 ```
 git clone https://github.com/Weesli/GitHubIssueDiscordBot.git
-cd GitHubIssueAPI
+cd GitHubIssueDiscordBot
 // If you already have TypeScript on your computer, you don't need to install it.
 npm install -g typescript
 // to build
