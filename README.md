@@ -72,4 +72,4 @@ Fork the project and generate a pull request :)
 
 **Contact me**
 
-Discord[](https://discord.com/users/509803473106239528)
+[Discord](https://discord.com/users/509803473106239528)
