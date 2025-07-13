@@ -1,4 +1,4 @@
-import { config, forms } from "../config"
+import { forms } from "../config"
 
 export type Form = {
     id: string,
