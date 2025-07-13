@@ -17,8 +17,9 @@ client.on(Events.ClientReady, clientReady => {
 })
 
 fs.readdirSync("./src/events").forEach(file => {
-    const eventFunction = require(`./events/${file}`);
-    console.log("loaded event:", file);
+    let fileNameWithOutTag = file.replace(".ts", "");
+    require(`./events/${fileNameWithOutTag}`)
+    console.log("loaded event:", fileNameWithOutTag);
 });
 
 const connectClient = () => {
