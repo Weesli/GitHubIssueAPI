@@ -1,5 +1,5 @@
 {
-  "name": "githubissueapi",
+  "name": "githubissuebot",
   "version": "1.0.0",
   "description": "Auto create an issue with discord message ",
   "main": "src/index.js",
